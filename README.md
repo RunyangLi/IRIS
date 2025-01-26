@@ -4,6 +4,7 @@ Iris classification: Iris iris, iris variegated, iris Virginia.
 The main characteristics used to identify warbler flowers: iris calyx length, calyx wide, petal length, petal width. 
 Iris Identification
 Idea Process: 
+
 1.Obtain iris data, analyze and process;
 
 2.Organize the data bits training set, test set;
