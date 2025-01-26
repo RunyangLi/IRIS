@@ -5,7 +5,11 @@ The main characteristics used to identify warbler flowers: iris calyx length, ca
 Iris Identification
 Idea Process: 
 1.Obtain iris data, analyze and process;
+
 2.Organize the data bits training set, test set;
+
 3.build a neural network model;
+
 4.Train the network and optimize the network model parameters;
+
 5.Save the optimal model for iris identification.
